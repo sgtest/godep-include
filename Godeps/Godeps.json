@@ -1,0 +1,13 @@
+{
+	"ImportPath": "github.com/sgtest/godep-include",
+	"GoVersion": "go1.5.1",
+	"Packages": [
+		"./..."
+	],
+	"Deps": [
+		{
+			"ImportPath": "github.com/sourcegraph/john-test/hi",
+			"Rev": "34ef87d4e36fe31da5d4402bb9bddccab0877a32"
+		}
+	]
+}
