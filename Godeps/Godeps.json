@@ -1,13 +1,13 @@
 {
-	"ImportPath": "github.com/sgtest/godep-include",
+	"ImportPath": "github.com/sgtest/godepinclude",
 	"GoVersion": "go1.5.1",
 	"Packages": [
 		"./..."
 	],
 	"Deps": [
 		{
-			"ImportPath": "github.com/sourcegraph/john-test/hi",
-			"Rev": "34ef87d4e36fe31da5d4402bb9bddccab0877a32"
+			"ImportPath": "github.com/stretchr/testify/require",
+			"Rev": "d77da356e56a7428ad25149ca77381849a6a5232"
 		}
 	]
 }
